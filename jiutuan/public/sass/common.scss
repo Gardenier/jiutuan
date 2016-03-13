@@ -1,0 +1,15 @@
+$font-family: 'Microsoft YaHei';
+
+//@import 'homePage.scss';
+body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: $font-family;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}

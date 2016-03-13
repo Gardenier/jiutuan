@@ -1,0 +1,17 @@
+/* line 4, ../sass/common.scss */
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Microsoft YaHei";
+}
+
+/* line 10, ../sass/common.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 13, ../sass/common.scss */
+li {
+  list-style: none;
+}
